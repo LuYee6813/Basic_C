@@ -9,3 +9,4 @@ int main() {
     printf("Output: %c\n", output);
     return 0;
 }
+
