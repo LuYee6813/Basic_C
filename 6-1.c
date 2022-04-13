@@ -6,7 +6,6 @@ int main(){
     scanf("%d%d",&a,&b);
     printf("Before: %d,%d\n",a,b);
     if (a <= b){
-
     }
     if (a > b){
         int tmp;
